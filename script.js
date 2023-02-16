@@ -1,3 +1,4 @@
+
 const fizik = document.getElementById("fizik");
 const yama = document.getElementById("yama");
 
